@@ -9,7 +9,7 @@ const Details = () => {
     day: "2-digit",
     year: "numeric",
   });
-  const formattedDate = formatter.format(new Date(data.lastVisit));
+  const formattedDate = formatter.format(new Date(data.lastVisit)).split("/").reverse();
   console.log(formattedDate)
   console.log(data)
   return (
@@ -20,7 +20,7 @@ const Details = () => {
       </div>
       <div className=" grid grid-cols-1  w-[70%] mx-9 mt-4 ">
         <form>
-          <div className="grid grid-cols-2 gap-x-5">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-x-5">
             <div className="flex flex-col gap-y-0">
               <label className="text-slate-500 capitalize text-sm">
                 clinic name <span className="text-red-600">*</span>
@@ -114,7 +114,7 @@ const Details = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-3 gap-x-5 mt-2">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-x-5 mt-2">
             <div className="flex flex-col">
               <label className="text-slate-500 capitalize text-sm">
                 physician name
@@ -150,7 +150,7 @@ const Details = () => {
             </div>
           </div>
 
-          <div className="grid grid-cols-3 gap-x-5 mt-2">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-x-5 mt-2">
             <div className="flex flex-col">
               <label className="text-slate-500 capitalize text-sm">
                 billing
