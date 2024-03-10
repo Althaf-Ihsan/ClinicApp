@@ -31,4 +31,12 @@ This project was created using the following technologies.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing.
 - [Tailwind Css](https://tailwindcss.com/) - For User Interface.
 - [React icons](https://react-icons.github.io/react-icons/) -Small library that helps you add icons  to your react apps.
+## Screenshots
+
+![App Screenshot](https://github.com/Althaf-Ihsan/ClinicApp/assets/92204175/cd73699a-efbb-4a18-9066-f51f4feffc19)
+<br>
+![App Screenshot](https://github.com/Althaf-Ihsan/ClinicApp/assets/92204175/2939bf19-4f3d-491f-9924-78c2c4b14bab)
+<br>
+![App Screenshot](https://github.com/Althaf-Ihsan/ClinicApp/assets/92204175/2939bf19-4f3d-491f-9924-78c2c4b14bab)
+
 
