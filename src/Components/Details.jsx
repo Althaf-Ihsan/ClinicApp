@@ -18,7 +18,7 @@ const Details = () => {
         <Link to="/"><FaArrowLeft size={20} className="font-bold" /></Link>
         <span className="capitalize text-xl">clinic details</span>
       </div>
-      <div className=" grid grid-cols-1 w-full  md:w-[70%] mx-3 md:mx-9 mt-4 ">
+      <div className=" grid grid-cols-1 w-full  md:w-[70%] mx-3 md:mx-9 mt-2 md:mt-4 ">
         <form>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-5">
             <div className="flex flex-col gap-y-0">
