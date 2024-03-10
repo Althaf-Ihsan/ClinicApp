@@ -1,8 +1,30 @@
-# Clinic App
+<H1 align ="center" > REACT QUIZ  </h1>
+<h5  align ="center"> 
+Fullstack open source quiz application </h5>
+<br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  * [Configuration and Setup](#configuration-and-setup)
+  * [Key Features](#key-features)
+  * [Technologies used](#technologies-used)
+  * [📸 Screenshots](#screenshots)
+  * [Author](#author)
+  * [License](#license)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Configuration and Setup
+
+In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
+
+- Open the project in your prefered code editor.
+- Go to terminal -> New terminal (If you are using VS code)
+
+In the first terminal
+
+```
+$ cd react-quiz
+$ npm install 
+$ npm run dev
+
+```
+
+```
