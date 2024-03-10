@@ -96,7 +96,7 @@ const Table = () => {
       </div>
       <div className="w-[82%]">
         <table className="overflow-auto table-auto w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
-          <thead className="text-xs  text-gray-700 uppercase bg-gray-100 dark:bg-gray-700 dark:text-gray-400">
+          <thead className="text-xs  text-gray-700 uppercase bg-gray-100 ">
             <tr>
               <th scope="col" className="px-4 py-1">
                 Clinic
@@ -128,10 +128,10 @@ const Table = () => {
             {filteredData
               .map((item,i) => {
                 return (
-                  <tr className="bg-white border-b dark:bg-gray-800 dark:border-gray-700" key={i} onClick={()=>clickData(item)}>
+                  <tr className="bg-white border-b " key={i} onClick={()=>clickData(item)}>
                     <td
                       scope="row"
-                      className="cursor-pointer px-4 py-1  text-gray-900 whitespace-nowrap dark:text-white"
+                      className="cursor-pointer px-4 py-1  text-gray-900 whitespace-nowrap "
                     >
                       {item.clinicName.substring(0, 43)}
                     </td>
