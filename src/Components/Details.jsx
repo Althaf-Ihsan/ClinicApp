@@ -14,11 +14,11 @@ const Details = () => {
   console.log(data)
   return (
     <div className="w-full overflow-hidden">
-      <div className="flex flex-row gap-7 justify-start items-center mt-6 mx-9 w-full  ">
+      <div className="flex flex-row gap-7 justify-start items-center mt-3 mx-3 md:mt-6 md:mx-9 w-full  ">
         <Link to="/"><FaArrowLeft size={20} className="font-bold" /></Link>
         <span className="capitalize text-xl">clinic details</span>
       </div>
-      <div className=" grid grid-cols-1 w-full  md:w-[70%] mx-9 mt-4 ">
+      <div className=" grid grid-cols-1 w-full  md:w-[70%] mx-3 md:mx-9 mt-4 ">
         <form>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-5">
             <div className="flex flex-col gap-y-0">

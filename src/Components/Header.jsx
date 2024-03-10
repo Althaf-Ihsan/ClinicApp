@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="flex h-14 w-full justify-between  items-center px-6 border-b border-slate-200 ">
+    <div className="flex h-14 w-full justify-between  items-center px-1 md:px-6  border-b border-slate-200 ">
       <Link to='/'>
         <img
           src="https://primrose.health/wp-content/uploads/2023/10/primrose-logo-md.svg"
