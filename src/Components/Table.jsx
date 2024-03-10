@@ -46,9 +46,9 @@ const Table = () => {
     navigate("/details",{state:item})
   }
   return (
-    <div className="flex ">
-      <div className="h-[300px] w-[18%] ">
-        <div className="flex flex-col mx-5 mt-3">
+    <div className="md:flex ">
+      <div className="h-[300px] md:w-[18%] ">
+        <div className="flex  flex-col mx-5 mt-3">
           <span className="mb-3 text-lg font-semibold"> Contacts</span>
           <form>
             <div className="flex flex-col gap-4 mb-8">
