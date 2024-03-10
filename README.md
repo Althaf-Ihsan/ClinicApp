@@ -28,3 +28,14 @@ $ npm run dev
 ```
 
 ```
+##  Technologies used
+
+This project was created using the following technologies.
+
+- [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications.
+- [React Vite](https://vitejs.dev/guide/) - Improved website speed.
+- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state.
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing.
+- [Tailwind Css](https://tailwindcss.com/) - For User Interface.
+- [React icons](https://react-icons.github.io/react-icons/) -Small library that helps you add icons  to your react apps.
+
