@@ -21,7 +21,7 @@ In order to run this project locally, simply fork and clone the repository or do
 In the first terminal
 
 ```
-$ cd react-quiz
+$ cd ClinicApp
 $ npm install 
 $ npm run dev
 
