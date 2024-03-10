@@ -27,7 +27,6 @@ $ npm run dev
 
 ```
 
-```
 ##  Technologies used
 
 This project was created using the following technologies.
