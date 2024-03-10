@@ -1,7 +1,4 @@
-<H1 align ="center" > REACT QUIZ  </h1>
-<h5  align ="center"> 
-Fullstack open source quiz application </h5>
-<br/>
+<H1 align ="center" > Clinic App  </h1>
 
   * [Configuration and Setup](#configuration-and-setup)
   * [Key Features](#key-features)
