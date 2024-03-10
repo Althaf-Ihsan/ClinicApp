@@ -1,11 +1,8 @@
 <H1 align ="center" > Clinic App  </h1>
 
   * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
   * [Technologies used](#technologies-used)
   * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
 
 
 ## Configuration and Setup
