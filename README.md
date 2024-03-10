@@ -37,6 +37,6 @@ This project was created using the following technologies.
 <br>
 ![App Screenshot](https://github.com/Althaf-Ihsan/ClinicApp/assets/92204175/2939bf19-4f3d-491f-9924-78c2c4b14bab)
 <br>
-![App Screenshot](https://github.com/Althaf-Ihsan/ClinicApp/assets/92204175/2939bf19-4f3d-491f-9924-78c2c4b14bab)
+
 
 
